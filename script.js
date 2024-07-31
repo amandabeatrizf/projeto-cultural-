@@ -13,7 +13,10 @@ const perguntas = [
                 texto: "Não",
                 afirmacao: " Os pontos turisticos mais cinhecidos de Campo-Largo são: Parque Newton Puppi, City Center Outlet Premium, Museu Histórico de Campo Largo, Morro do Cal, Recanto Salto Boa Vista entre outras opições para o seu passeio!"
  "
-            },
+                 }
+             ]
+        },
+            
             {
           
                  texto: " Sim",
