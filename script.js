@@ -6,8 +6,6 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [ 
     { 
-        Questionario: [
-    {
         enunciado: " 1- Você conhece algum ponto turistico em Campo-Largo ? ",
         alternativas: [
             {
