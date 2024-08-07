@@ -9,28 +9,18 @@ const perguntas = [
         enunciado: " 1- Você conhece algum ponto turistico em Campo-Largo ? ",
         alternativas: [
             {
-            
                 texto: "Não",
                 afirmacao: " Os pontos turisticos mais cinhecidos de Campo-Largo são: Parque Newton Puppi, City Center Outlet Premium, Museu Histórico de Campo Largo, Morro do Cal, Recanto Salto Boa Vista entre outras opições para o seu passeio!"
- "
-                 }
-             ]
         },
             
             {
-          
                  texto: " Sim",
                 afirmacao: "Isso é maravilhoso!"
             }
         ]
     },
-    {
-
 
     
-] 
-
-        [
     {
         enunciado: " 2- Gosta de sair em familia em um ambiente livre? ",
         alternativas: [
@@ -38,7 +28,6 @@ const perguntas = [
             
                 texto: "Não",
                 afirmacao: " As vezes passear em lugares sozinho é importante para ter um momento só seu, mas saiba que compania sempre é mais divertido "
- "
             },
             {
           
@@ -47,21 +36,14 @@ const perguntas = [
             }
         ]
     },
-    {
-
-
     
-] 
-
-            [
     {
         enunciado: " 3- Como você se organiza para dar um passeio em um ponto turístico? ",
         alternativas: [
             {
             
                 texto: "Não me organizo, vou na louca",
-                afirmacao: " Corajoso, não podemos dar disculpa para dar uma voltinha, não sabemos o dia de amanhã certo ? "
- "
+                afirmacao: " Corajoso, não podemos dar disculpa para dar uma voltinha, não sabemos o dia de amanhã certo ?"
             },
             {
           
@@ -70,12 +52,7 @@ const perguntas = [
             }
         ]
     },
-    {
-
-
     
-]  
-             [
     {
         enunciado: " 4- Você já fez alguma atividade em campo ao ar livre? ",
         alternativas: [
@@ -83,7 +60,7 @@ const perguntas = [
             
                 texto: "Não",
                 afirmacao: " Se não, você pode começar agora ! Volte na questão numero 1 que lá terá dicas de lugares de passeio ao ar livre, bora lá! "
- "
+
             },
             {
           
@@ -92,11 +69,9 @@ const perguntas = [
             }
         ]
     },
-    {
+     
+] ;
 
-
-    
-] 
 let atual = 0;
 let perguntaAtual;
 let historiaFinal = "";
