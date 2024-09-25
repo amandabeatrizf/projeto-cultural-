@@ -29,7 +29,7 @@ export const perguntas = [
                  texto: " Sim",
                 afirmacao: "Com compania não se pode faltar em um dia divertido de passeio em Campo-Largo"
                 " amo passear com minha familia e amigos,muito bom sair acompanhada"
-    }
+ }
       ]
     
     
