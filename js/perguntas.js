@@ -11,7 +11,7 @@ export const perguntas = [
       {
                  texto: " Sim",
                 afirmacao: ["Isso e maravilhoso!",
-            }               " isto é muito maravilhoso pois sempre que vou conheco as novidades"
+                           " isto é muito maravilhoso pois sempre que vou conheco as novidades"
                            ]
         ]   
          
@@ -77,4 +77,4 @@ export const perguntas = [
             }
         ]
     },
-]
+ ]
