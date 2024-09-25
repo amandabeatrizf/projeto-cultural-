@@ -5,8 +5,8 @@ export const perguntas = [
             {
                 texto: "Não",
                 afirmacao: " Os pontos turisticos mais cinhecidos de Campo-Largo são: Parque Newton Puppi, City Center Outlet Premium, Museu Histórico de Campo Largo, Morro do Cal, Recanto Salto Boa Vista entre outras opições para o seu passeio!"
-                      "Percebeu que em campo largo você consegue entrar e visita esses lugares de graça
-                         }
+                      "Percebeu que em campo largo você consegue entrar e visita esses lugares de graca"
+                    }
       {
                  texto: " Sim",
                 afirmacao: "Isso é maravilhoso!"
@@ -28,8 +28,8 @@ export const perguntas = [
            { 
                  texto: " Sim",
                 afirmacao: "Com compania não se pode faltar em um dia divertido de passeio em Campo-Largo"
-                " amo passear com minha familia e amigos,muito bom sair acompanhada"
- }
+                " amo passear com minha familia e amigos,muito bom sair acompanhada" 
+           }
       ]
     
     
@@ -66,5 +66,4 @@ export const perguntas = [
             }
         ]
     },
-     
 ]
