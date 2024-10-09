@@ -77,14 +77,15 @@ export const perguntas = [
                 
                             " se voce realmente se interressar é so seguir as intruções"
                             ],
-                            proxima: 7,
-             },
-             {
+                },
+                {
           
                  texto: " Sim ",
-                afirmacao: [" Parabens, voce tem um perfil turista de Campo-Largo. "
-                ],
-            },
-        ]
-    }
-; 
+                afirmacao: [" Parabens, voce tem um perfil turista de Campo-Largo. ",
+                          
+                            " Esta ansioso para conhecer mais pontos turisticos em Campo-Largo."
+                             ],
+                },
+              ]
+            }
+          ;
