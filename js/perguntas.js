@@ -83,8 +83,8 @@ export const perguntas = [
           
                  texto: " Sim ",
                 afirmacao: [" Parabens, voce tem um perfil turista de Campo-Largo. "
-               ],
+                ],
             },
         ]
     }
-],
+; 
