@@ -37,7 +37,7 @@ export const perguntas = [
                 proxima: 3,
       },
     ] 
-    },
+ },
            { 
                  texto: " Sim",
                 afirmacao: [
@@ -48,8 +48,7 @@ export const perguntas = [
            },
       ]
     
-    }
-    {    
+  {    
         enunciado; " 3- Como você se organiza para dar um passeio em um ponto turístico? ",
         alternativas; [
             {
@@ -94,4 +93,4 @@ export const perguntas = [
             },
         ]
     }
-]    
+}  
