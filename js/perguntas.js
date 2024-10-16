@@ -18,13 +18,9 @@ export const perguntas = [
                            ],
                            proxima: 2,
             },
-                       
-                        
-        ]   
-         
-    },
-
-    {
+          ]   
+        },
+     {
         enunciado: " 2- Gosta de sair em familia em um ambiente livre? ",
         alternativas: [
             {
@@ -35,19 +31,19 @@ export const perguntas = [
                     " Prefiro passear muitas vezes sozinhos"
                 ],
                 proxima: 3,
-      },
+      },   
     ] 
  },
-           { 
+             { 
                  texto: " Sim",
                 afirmacao: [
                     "Com compania não se pode faltar em um dia divertido de passeio em Campo-Largo",
                     " amo passear com minha familia e amigos,muito bom sair acompanhada" 
                 ],
                 proxima: 4,
-           },
-      ]
-    
+            },  
+          ]
+        
   {    
         enunciado; " 3- Como você se organiza para dar um passeio em um ponto turístico? ",
         alternativas; [
@@ -61,8 +57,7 @@ export const perguntas = [
                          proxima: 5,
             },
             {
-          
-                 texto: " Sim eu me organizo",
+               texto: " Sim eu me organizo",
                 afirmacao: [
                     " Planejador, sempre se organizar é tudo, pois assim saimos mais tranquilos para um passeio relaxante. ",
                     " E nunca se esquecer de se hidratar antes e durante o passeio "
@@ -71,8 +66,7 @@ export const perguntas = [
             },
         ]
     }
-    
-    {
+      {
         enunciado; " 4- Você já fez alguma atividade em campo ao ar livre? ",
         alternativas; [
             {
